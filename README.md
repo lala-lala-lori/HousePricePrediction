@@ -2,11 +2,11 @@
 
 ### Members:
 
-Ravi Rahar        
-Rahul Kumar Yadav 
-Ajit Singh        
-Harsh             
-Raunak Kumar      
+* Ravi Rahar        
+* Rahul Kumar Yadav 
+* Ajit Singh        
+* Harsh             
+* Raunak Kumar      
 
 [Link][kl] for kaggle competition
 
